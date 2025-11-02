@@ -1,0 +1,2 @@
+{"level":"info","message":"💰 Выполнена сделка","moscowTime":"18.09.2025, 10:22:06","price":"304.2900","side":"Sell","signalConfidence":"65.1","signalStrength":"0.600","size":"0.08","stopLoss":"310.3758","symbol":"AAVEUSDT","takeProfit":"286.0326","timestamp":"18.09.2025, 10:22:06"}
+{"duration":"6.0 мин","exitPrice":"305.6300","level":"info","message":"🔒 Закрыта сделка","moscowTime":"18.09.2025, 10:28:09","pnl":"-0.11","reason":"auto_restart","symbol":"AAVEUSDT","timestamp":"18.09.2025, 10:28:09"}

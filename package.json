@@ -1,0 +1,31 @@
+{
+  "name": "bybit-trading-bot",
+  "version": "1.0.0",
+  "description": "Торговый робот для анализа рынка и автоматической торговли на Bybit",
+  "main": "tradingBot.js",
+  "scripts": {
+    "start": "node tradingBot.js",
+    "dev": "nodemon tradingBot.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "technicalindicators": "^3.1.0",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^5.0.0",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "trading",
+    "bot",
+    "bybit",
+    "cryptocurrency",
+    "automation"
+  ],
+  "author": "Trading Bot",
+  "license": "MIT"
+}
